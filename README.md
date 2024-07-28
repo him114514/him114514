@@ -12,4 +12,4 @@
 ## 技能
 - python
 - java（正在练习）
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
