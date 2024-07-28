@@ -11,5 +11,6 @@
 
 ## 技能
 - python
+- ![Your GitHub contributions](https://www.python.org/static/img/python-logo.png)
 - java（正在练习）
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
