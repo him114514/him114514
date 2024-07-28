@@ -10,6 +10,5 @@
 - weixin：wxid_7xwte2bel3k022
 
 ## 技能
-- Programming Languages: [List Languages].
-- Technologies & Tools: [List Tools and Technologies].
+- Programming Languages: [python,java].
 
