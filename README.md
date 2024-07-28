@@ -1,6 +1,6 @@
-# Hey there! 👋
+#我是你爷爷him 👋
 
-我是你爷爷him, a [Your Role/Title] based in [Your Location]. 欢迎来到我的GitHub!
+欢迎来到我的GitHub!
 
 
 
