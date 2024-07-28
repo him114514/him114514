@@ -10,5 +10,6 @@
 - weixin：wxid_7xwte2bel3k022
 
 ## 技能
-- Programming Languages: [python,java].
-
+- python
+- java（正在练习）
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
