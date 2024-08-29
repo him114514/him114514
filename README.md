@@ -11,8 +11,8 @@
 - weixin：wxid_7xwte2bel3k022
 
 ## 技能
-![python](https://img.shields.io/badge/python|Folia-blue)
-![Java](https://img.shields.io/badge/Java|Folia-orange)
+![python](https://img.shields.io/badge/python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
 
 - python
 - ![Your GitHub contributions](https://www.python.org/static/img/python-logo.png)
