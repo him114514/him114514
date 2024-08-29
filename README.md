@@ -3,6 +3,7 @@
 欢迎来到我的GitHub!
 
 
+
 ## 联系方式
 - QQ:715387640
 - BiliBili：Technology_him
@@ -11,6 +12,7 @@
 
 ## 技能
 ![python](https://img.shields.io/badge/python|Folia-blue)
+![Java](https://img.shields.io/badge/Java|Folia-orange)
 
 - python
 - ![Your GitHub contributions](https://www.python.org/static/img/python-logo.png)
