@@ -13,5 +13,5 @@
 - python
 - ![Your GitHub contributions](https://www.python.org/static/img/python-logo.png)
 - java
-- ![Your GitHub contributions](https://dev.java/assets/images/java-logo-vector.png)
+- ![Your GitHub contributions](https://bpic.588ku.com/element_origin_min_pic/00/27/39/4556d155abd096a.jpg)
 
